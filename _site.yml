@@ -1,0 +1,9 @@
+name: "my-website"
+navbar:
+  title: "Your Company "
+  left:
+    - text: "Quotation"
+      href: index.html
+
+   
+   
